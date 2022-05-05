@@ -1,0 +1,4 @@
+.table, tr, th, thead, td, table{
+    border: 10px solid red;
+    background-color: aqua;
+}
